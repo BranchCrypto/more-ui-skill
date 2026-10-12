@@ -1,9 +1,9 @@
 ---
-name: ui-alignment-optimizer
-description: Inspect, diagnose, and fix UI grid, alignment, spacing, sizing, and responsive layout issues with minimal changes. Use when reviewing or modifying existing UI code or layouts while preserving design intent and functionality.
+name: more-ui
+description: Inspect, diagnose, and fix UI grid, alignment, spacing, sizing, and responsive layout issues with minimal changes (更多UI优化). Use when reviewing or modifying existing UI code or layouts while preserving design intent and functionality.
 ---
 
-# UI Alignment Optimizer
+# 更多UI优化 (More UI)
 
 ## Role
 Identify and fix UI layout inconsistencies with minimal changes while preserving design intent and functionality.

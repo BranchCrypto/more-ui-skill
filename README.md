@@ -1,8 +1,8 @@
-# ui-alignment-optimizer-skill
+# more-ui-skill
 
 [中文](README.md) | [English](README.en.md)
 
-这是一个 UI 布局对齐与视觉一致性优化 skill。
+**更多UI优化** — 这是一个 UI 布局对齐与视觉一致性优化 skill。
 
 解决
 
@@ -19,5 +19,5 @@
 让你的 agent 运行：
 
 ```bash
-npx skills add BranchCrypto/ui-alignment-optimizer-skill
+npx skills add BranchCrypto/more-ui-skill
 ```

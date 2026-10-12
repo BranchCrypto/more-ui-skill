@@ -1,8 +1,8 @@
-# ui-alignment-optimizer-skill
+# more-ui-skill
 
 [中文](README.md) | English
 
-A skill for diagnosing and fixing UI grid, alignment, spacing, sizing, and responsive layout issues.
+**More UI** — a skill for diagnosing and fixing UI grid, alignment, spacing, sizing, and responsive layout issues.
 
 It addresses:
 
@@ -19,5 +19,5 @@ It addresses:
 Ask your agent to run:
 
 ```bash
-npx skills add BranchCrypto/ui-alignment-optimizer-skill
+npx skills add BranchCrypto/more-ui-skill
 ```
